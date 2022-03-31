@@ -1,0 +1,20 @@
+{
+  "name": "github-integration",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "flatted": "^3.1.0",
+    "github-api": "^3.3.0",
+    "passport": "^0.4.1",
+    "passport-github": "^1.1.0",
+    "underscore": "^1.12.0"
+  }
+}
